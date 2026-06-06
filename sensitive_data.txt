@@ -1,0 +1,1 @@
+BIT4138 Logbook: Confidentially securing student records using AES-CBC mode.
