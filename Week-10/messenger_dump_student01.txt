@@ -1,0 +1,9 @@
+=== UNIVERSITY SECURE COMMUNICATION TRANSACTION LOGS ===
+Export Timestamp: 2026-06-29 13:31:31
+Authorized By   : student01 (Student)
+========================================================
+
+[2026-06-29 13:27:42] From: student01 | To: lecturer01
+Payload Digest text: This is a very confidential message
+Cryptographic Hash: 0333e54bb85269d0ca27582ff63f60fa5323a53b022ee88ba89c60c1e053bede
+------------------------------------------------------------
